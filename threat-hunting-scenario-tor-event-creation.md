@@ -71,3 +71,10 @@ DeviceNetworkEvents
 DeviceFileEvents
 | where FileName contains "shopping-list.txt"
 ```
+
+---
+
+## Created By:
+- **Author Name**: Jonathan Gistand
+- **Author Contact**: [https://www.linkedin.com/in/joshmadakor/](http://linkedin.com/in/jgdev)
+- **Date**: May 24, 2025
